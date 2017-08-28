@@ -1,0 +1,40 @@
+
+.header {
+  background-color: purple;
+  height: 30px;
+  width: 100%;
+  text-align: right;
+}
+
+.content {
+background-color: blue;
+height: 440px;
+width: 300px;
+margin-left: auto;
+margin-right: auto;
+margin-top: 130px;
+text-align: center;
+}
+
+.footer {
+background-color: green;
+height: 30px;
+width: 100%;
+position: fixed;
+bottom: 0;
+right: 0;
+}
+
+.flevo {
+  background-color: red;
+  display: inline-block;
+  margin: 2px;
+}
+
+.fdesno {
+  background-color: red;
+  display: inline-block;
+  margin-left: auto;
+
+  float: 
+  }
