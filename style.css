@@ -1,23 +1,21 @@
 
 .header {
-  background-color: purple;
   height: 30px;
   width: 100%;
   text-align: right;
 }
 
 .content {
-background-color: blue;
 height: 440px;
 width: 300px;
 margin-left: auto;
 margin-right: auto;
-margin-top: 130px;
+margin-top: 150px;
 text-align: center;
 }
 
 .footer {
-background-color: green;
+background-color: #e3e8ef;
 height: 30px;
 width: 100%;
 position: fixed;
@@ -26,15 +24,16 @@ right: 0;
 }
 
 .flevo {
-  background-color: red;
   display: inline-block;
-  margin: 2px;
-}
+  }
 
 .fdesno {
-  background-color: red;
   display: inline-block;
-  margin-left: auto;
+  float: right;
+}
 
-  float: 
-  }
+a {
+  text-decoration: none;
+  color: #545556;
+  margin-left: 10px;
+}
